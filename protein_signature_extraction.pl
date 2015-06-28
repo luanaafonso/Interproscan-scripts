@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+#Written by Tom de Man
+
 use strict; 
 
 my $interpro_input = $ARGV[0];
